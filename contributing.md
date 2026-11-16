@@ -1,6 +1,3 @@
-# Chadflix
-web project
-
 # Contributing Guide
 
 Welcome! Please follow these steps so we don't break each other's work.
